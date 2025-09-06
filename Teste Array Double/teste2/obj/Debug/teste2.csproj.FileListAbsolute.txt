@@ -1,0 +1,8 @@
+C:\Users\Joana\source\repos\teste2\teste2\obj\Debug\teste2.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\teste2\teste2\obj\Debug\teste2.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\teste2\teste2\bin\Debug\teste2.exe.config
+C:\Users\Joana\source\repos\teste2\teste2\bin\Debug\teste2.exe
+C:\Users\Joana\source\repos\teste2\teste2\bin\Debug\teste2.pdb
+C:\Users\Joana\source\repos\teste2\teste2\obj\Debug\teste2.exe
+C:\Users\Joana\source\repos\teste2\teste2\obj\Debug\teste2.pdb
+C:\Users\Joana\source\repos\teste2\teste2\obj\Debug\teste2.exe.config
